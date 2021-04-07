@@ -8,7 +8,7 @@ V8 is a reliable, fast, and safe private server nuker.
 
 ## Access
 
-To get your unique key for the nuker you must open a ticket in https://discord.gg/fdzzrDY5Mg, I will personally give you you're own key for you to access the nuker.
+To get your unique key for the nuker you must open a ticket in https://discord.gg/fdzzrDY5Mg, I take two nitro classics as payment.
 
 ---
 
