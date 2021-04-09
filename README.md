@@ -1,14 +1,23 @@
-# V8
+# Fuck Skids
 
-*v1.0.0b*
+*v1.1.0b*
 
-V8 is a reliable, fast, and safe private server nuker.
+This is a reliable, fast, and safe private server nuker.
 
 ---
 
 ## Access
 
-To get your unique key for the nuker you must open a ticket in https://discord.gg/fdzzrDY5Mg, I take two nitro classics as payment.
+To get your unique key contact me through https://discord.gg/fdzzrDY5Mg
+
+---
+
+
+## Payment
+
+1 Classic Nitro for 1 month of access
+2 Classic Nitro for 3 month of access
+3 Classic Nitro for lifetime
 
 ---
 
