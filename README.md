@@ -16,7 +16,9 @@ To get your unique key contact me through https://discord.gg/fdzzrDY5Mg
 ## Payment
 
 1 Classic Nitro for 1 month of access
+---
 2 Classic Nitro for 3 month of access
+---
 3 Classic Nitro for lifetime
 
 ---
