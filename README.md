@@ -20,7 +20,7 @@ To get your unique key contact me through https://discord.gg/fdzzrDY5Mg
 2 Classic Nitro for 3 month of access
 ---
 3 Classic Nitro for lifetime
-
+---
 ---
 
 ## Usage
